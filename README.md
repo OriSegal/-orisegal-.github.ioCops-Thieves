@@ -1,7 +1,7 @@
 
 # Cops&Thieves
 
-### Cops&thieves is a mobile multiplayer game 4-10 players that is publish on google play and was develop by unity and support by Unet. 
+### Cops&thieves is a mobile multiplayer game 4-10 players that is publish on google play and support by Unity Unet. 
 
 ## description of the game:
 ### in the beginning of the game the players divide randomly  to tow teams cops and thieves 
